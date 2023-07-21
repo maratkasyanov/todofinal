@@ -1,3 +1,3 @@
 # todofinal
 
-https://vercel.com/kasyanovm03-gmailcom/build/BSHe4kNxTDDVWud1DtJq2d29WEna
+https://build-ftsr5i0ua-kasyanovm03-gmailcom.vercel.app/
